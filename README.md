@@ -13,11 +13,11 @@
 <p align="left">
 <a href="https://twitter.com/dineshsaud008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dineshsaud008" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dinesh-bahadur-saud-0613a3220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh-bahadur-saud-0613a3220" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dinesh-bahadur-saud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dinesh-bahadur-saud" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16556474/dinesh-bahadur-saud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dinesh-bahadur-saud" height="30" width="40" /></a>
 <a href="https://fb.com/dineshsaud008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dineshsaud008" height="30" width="40" /></a>
 <a href="https://instagram.com/dineshsaud857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dineshsaud857" height="30" width="40" /></a>
 <a href="https://medium.com/@dineshsaud008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dineshsaud008" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@void-li3tn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@void-li3tn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCMUyxPloDEz9KxYIL6wfTPQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@void-li3tn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
